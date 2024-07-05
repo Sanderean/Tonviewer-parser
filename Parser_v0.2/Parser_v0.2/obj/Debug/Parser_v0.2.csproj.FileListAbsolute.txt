@@ -1,0 +1,17 @@
+C:\Users\andru\source\repos\Parser_v0.2\Parser_v0.2\bin\Debug\Parser_v0.2.exe.config
+C:\Users\andru\source\repos\Parser_v0.2\Parser_v0.2\bin\Debug\Parser_v0.2.exe
+C:\Users\andru\source\repos\Parser_v0.2\Parser_v0.2\bin\Debug\Parser_v0.2.pdb
+C:\Users\andru\source\repos\Parser_v0.2\Parser_v0.2\obj\Debug\Parser_v0._2.Form1.resources
+C:\Users\andru\source\repos\Parser_v0.2\Parser_v0.2\obj\Debug\Parser_v0._2.Properties.Resources.resources
+C:\Users\andru\source\repos\Parser_v0.2\Parser_v0.2\obj\Debug\Parser_v0.2.csproj.GenerateResource.cache
+C:\Users\andru\source\repos\Parser_v0.2\Parser_v0.2\obj\Debug\Parser_v0.2.csproj.CoreCompileInputs.cache
+C:\Users\andru\source\repos\Parser_v0.2\Parser_v0.2\obj\Debug\Parser_v0.2.exe
+C:\Users\andru\source\repos\Parser_v0.2\Parser_v0.2\obj\Debug\Parser_v0.2.pdb
+C:\Users\andru\source\repos\Parser_v0.2\Parser_v0.2\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\andru\source\repos\Parser_v0.2\Parser_v0.2\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\andru\source\repos\Parser_v0.2\Parser_v0.2\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\andru\source\repos\Parser_v0.2\Parser_v0.2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\andru\source\repos\Parser_v0.2\Parser_v0.2\bin\Debug\WebDriver.dll
+C:\Users\andru\source\repos\Parser_v0.2\Parser_v0.2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\andru\source\repos\Parser_v0.2\Parser_v0.2\bin\Debug\WebDriver.xml
+C:\Users\andru\source\repos\Parser_v0.2\Parser_v0.2\obj\Debug\Parser_v.FC3BF98B.Up2Date
